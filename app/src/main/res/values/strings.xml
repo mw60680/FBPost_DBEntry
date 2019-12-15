@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Feedback App</string>
+    <string name="customer_name">Name</string>
+    <string name="customer_email">Email</string>
+    <string name="customer_mobile_number">Mobile NUmber</string>
+    <string name="overall_rating_text">How would you rate our overall services?</string>
+    <string name="comments_heading">Any suggestions to serve you better?</string>
+    <string name="comments_text">Comments</string>
+    <string name="submit">Submit</string>
+</resources>
