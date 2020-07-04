@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "***REMOVED***";
-$password = "***REMOVED***";
-$database = "***REMOVED***";
+$username = "db_username";
+$password = "db_password";
+$database = "db_name";
 $response = array();
 
 try {

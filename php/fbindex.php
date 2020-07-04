@@ -12,10 +12,10 @@ $fbdata['default_graph_version'] = 'v5.0';
 $fb = new Facebook\Facebook($fbdata);
 
 $linkData = array();
-$linkData['link'] = '***REMOVED***';
+$linkData['link'] = 'Page link';
 $linkData['message'] = $comments;
 
-$pageAccessToken='***REMOVED***';
+$pageAccessToken='access token from FB';
 
 try {
     $response = $fb->post('/me/feed', $linkData, $pageAccessToken);

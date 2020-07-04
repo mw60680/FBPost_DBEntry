@@ -36,8 +36,8 @@ public class MainActivity extends AppCompatActivity {
 
     Button submitButton;
 
-    private static String ADD_REVIEW = "***REMOVED***";
-    private static String POST_FACEBOOK = "***REMOVED***facebook/";
+    private static String ADD_REVIEW = "API call to PHP file";
+    private static String POST_FACEBOOK = "API call to PHP file";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
